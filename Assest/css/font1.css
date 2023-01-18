@@ -1,0 +1,31 @@
+h1 {
+  font-family: Copperplate;
+}
+
+h2 {
+  font-family: Copperplate;
+}
+
+h3 {
+  font-family: Copperplate;
+}
+
+h4 {
+  font-family: Copperplate;
+}
+
+h5 {
+  font-family: Copperplate;
+}
+
+h6 {
+  font-family: Lucida Console;
+  font-size: 35px;
+  display: flex;
+  color: rgb(0, 0, 0);
+  justify-content: left;
+}
+
+p {
+  font-family: Copperplate;
+}
